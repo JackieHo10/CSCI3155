@@ -1,2 +1,2 @@
-# CSCI3155
-Principles of Programming Languages
+# CSCI_3155
+All labs for Principles of Programming Languages
